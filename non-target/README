@@ -1,0 +1,10 @@
+# NIPS 2017: Non-targeted Adversarial Attack
+
+Docker: goodfellow/competition:gpu
+
+Please download the checkpoint from following link.
+
+http://download.tensorflow.org/models/inception_v3_2016_08_28.tar.gz
+
+sha1sum(inception_v3.ckpt): 606fd6953c58c817c56fd3bc2f0384fc2ecaba92
+
