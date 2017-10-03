@@ -1,0 +1,11 @@
+NIPS 2017: Targeted Adversarial Attack
+
+https://www.kaggle.com/c/nips-2017-targeted-adversarial-attack
+
+Docker: gcr.io/tensorflow/tensorflow:1.1.0-gpu
+
+Please download the checkpoint from following link.
+
+http://download.tensorflow.org/models/inception_v3_2016_08_28.tar.gz
+
+sha1sum(inception_v3.ckpt): 606fd6953c58c817c56fd3bc2f0384fc2ecaba92
