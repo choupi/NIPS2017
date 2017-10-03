@@ -1,0 +1,6 @@
+{
+  "type": "defense",
+  "container": "gw000/keras:2.0.6-py2-tf-cpu",
+  "container_gpu": "gw000/keras:2.0.6-py2-tf-gpu",
+  "entry_point": "run_defense.sh"
+}

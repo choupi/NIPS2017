@@ -1,0 +1,22 @@
+# NIPS 2017: Defense Against Adversarial Attack
+
+https://www.kaggle.com/c/nips-2017-defense-against-adversarial-attack
+
+Docker: gw000/keras:2.0.6-py2-tf-gpu
+Require: PIL
+
+Please get the pre-trained models from following links.
+
+https://github.com/fchollet/deep-learning-models/releases/download/v0.7/inception_resnet_v2_weights_tf_dim_ordering_tf_kernels.h5
+
+https://github.com/fchollet/deep-learning-models/releases/download/v0.2/resnet50_weights_tf_dim_ordering_tf_kernels.h5
+
+https://github.com/fchollet/deep-learning-models/releases/download/v0.1/vgg19_weights_tf_dim_ordering_tf_kernels.h5
+
+https://github.com/fchollet/deep-learning-models/releases/download/v0.4/xception_weights_tf_dim_ordering_tf_kernels.h5
+
+sha1sum:
+49ad3d5bebb0c9dc432698c15112ee1e6c648500  inception_resnet_v2_weights_tf_dim_ordering_tf_kernels.h5
+925de0365eafd1cc1ea19966fb7ceab4c4aaffd7  resnet50_weights_tf_dim_ordering_tf_kernels.h5
+7d160b955bb765032a80ab35224142b3b9980491  vgg19_weights_tf_dim_ordering_tf_kernels.h5
+c108403fa5a84e097330f5ee4f17a9c5149277da  xception_weights_tf_dim_ordering_tf_kernels.h5
